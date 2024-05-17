@@ -30,3 +30,4 @@ to use mongodb to impot mongodb laibrary
 ->git init
 ->git status
 ->git add.
+->git rm -r --cached node_modules
