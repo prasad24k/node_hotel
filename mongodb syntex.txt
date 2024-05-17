@@ -1,0 +1,32 @@
+Mongosh-->To start mongodb server
+show database-->Show database
+use local-->Use database
+show collections-->Check data
+db.createCollection("name");-->create data
+show dbs-->show databases
+db.name.insertOne({id:,username:"prasad",age:22});-->add values to data
+db.name.find();--> show the values 
+db.users.find({ age :{$lt:20}});--->filter 
+db.collage.updateOne({username:"swapna"},{$set:{id:2}});-->Modification
+db.collage.deleteOne({id:2});-->delete
+
+
+
+
+to use mongodb to impot mongodb laibrary 
+-->npm install mongoose
+
+
+->backend modules
+->NPM init
+->npm install nodemon
+->npm install express 
+->npm i lodash
+->npm install mongoose
+->npm install body-parser
+
+
+-->git
+->git init
+->git status
+->git add.
